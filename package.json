@@ -28,7 +28,8 @@
   },
   "dependencies": {
     "express": "^4.17.1",
-    "fs": "^0.0.1-security"
+    "fs": "^0.0.1-security",
+    "lodash": "^4.17.20"
   },
   "devDependencies": {
     "@types/express": "^4.17.8",
